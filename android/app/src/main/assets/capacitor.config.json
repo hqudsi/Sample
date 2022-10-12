@@ -1,0 +1,6 @@
+{
+	"appId": "ps.act.foodUI",
+	"appName": "foodUI",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
